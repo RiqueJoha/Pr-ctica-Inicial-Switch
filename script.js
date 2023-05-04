@@ -19,8 +19,4 @@ function cambiarColorTexto(){
         default:
             alert = "ERROR";
     }
-
-
-
-
 }
